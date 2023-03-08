@@ -3,7 +3,7 @@ import discord
 from discord import app_commands
 import random
 import datetime
-
+#test
 intents = discord.Intents.default()
 intents.message_content = True
 client = discord.Client(intents=intents)
